@@ -44,4 +44,4 @@ Welcome to my GitHub profile! I'm a versatile developer passionate about creatin
 I’m currently focusing on enhancing my skills in Android development using Android Studio, exploring the nuances of mobile app development, and working on creating efficient and user-friendly applications.
 
 ## 📫 How to Reach Me
-- **Email:** [your.email@example.com](mailto:jaretpridddy@gmail.com)
+- **Email:** [jaretpriddy@example.com](mailto:jaretpridddy@gmail.com)

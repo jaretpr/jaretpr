@@ -47,3 +47,6 @@ I’m currently focusing on enhancing my skills in Android development using And
 
 ## 📫 How to Reach Me
 - **Email:** [Email Me](mailto:jaretpridddy@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=jaretpr&color=blue)
+

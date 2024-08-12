@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a versatile developer passionate about creatin
 
 ## 🚀 Projects
 - **[PropWise](https://github.com/jaretpr/PropWise):** A Chrome extension developed with HTML, CSS, and JavaScript for managing and analyzing sports statistics. PropWise helps users make informed decisions by providing detailed and up-to-date data on various sports.
-- **[Encrypt-Decrypt-Tool](https://github.com/jaretpr/Encrypt-Decrypt-Tool):** A secure file encryption and decryption tool that uses AES 256 encryption, pbkdf2, and salt. Built with Python.
+- **[Encrypt-Decrypt-Tool](https://github.com/jaretpr/Encrypt-Decrypt-Tool):** A secure file encryption and decryption tool that uses AES 256 encryption, pbkdf2, and salt.
 - **[User-Account-Creator](https://github.com/jaretpr/User-Account-Creator):** Streamlines user account creation in Active Directory and KnowBe4 with PowerShell scripting.
 - **[EFiling-Automation](https://github.com/jaretpr/EFiling-Automation):** Automates the e-filing process to reduce errors and increase efficiency.
 - **[Vulnerability-Scanner](https://github.com/jaretpr/Vulnerability-Scanner):** A PowerShell-based tool designed to scan networks and identify potential vulnerabilities, helping to secure IT environments.

@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a versatile developer passionate about creatin
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jaretpr&theme=dark)
 
 ## 🌱 What I'm Learning
-I’m currently focusing on enhancing my skills in Android development using Android Studio, exploring the nuances of mobile app development, and working on creating efficient and user-friendly applications.
+I'm currently focusing on enhancing my skills in TensorFlow, exploring the nuances of machine learning and deep learning, and working on creating efficient and intelligent models.
 
 ## 📫 How to Reach Me
 - **Email:** [Email Me](mailto:jaretpridddy@gmail.com)

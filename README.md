@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a versatile developer passionate about creatin
 I'm currently focusing on enhancing my skills in TensorFlow, exploring the nuances of machine learning and deep learning, and working on creating efficient and intelligent models.
 
 ## 📫 How to Reach Me
-- **Email:** [Email Me](mailto:jaretpridddy@gmail.com)
+- **Email:** [Email Me](mailto:jaretpriddy@gmail.com)
 
 ##
 ![Profile views](https://komarev.com/ghpvc/?username=jaretpr&color=blue)

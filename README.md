@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm a versatile developer passionate about creatin
 - **[Vulnerability-Scanner](https://github.com/jaretpr/Vulnerability-Scanner):** A PowerShell-based tool designed to scan networks and identify potential vulnerabilities, helping to secure IT environments.
 - **[Network-PC-Info-Retriever](https://github.com/jaretpr/Network-PC-Info-Retriever):** A PowerShell script to gather essential PC information across a network, aiding in efficient IT management.
 - **[Github-Follow-Unfollow-Automation](https://github.com/jaretpr/Github-Follow-Unfollow-Automation):** Automates GitHub follow/unfollow actions using Python.
+- **[NFL_Machine_Learning](https://github.com/jaretpr/NFL_Machine_Learning):** A Python app that predicts NFL player performance based on past stats.
+- **[NFL_Stats_Props_Analyzer](https://github.com/jaretpr/NFL_Stats_Props_Analyzer):** A Python app for comparing NFL player stats against prop betting lines.
   
 ### 🛠 Languages and Tools:
 

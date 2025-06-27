@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a versatile developer passionate about creatin
 - **[Github-Follow-Unfollow-Automation](https://github.com/jaretpr/Github-Follow-Unfollow-Automation):** Automates GitHub follow/unfollow actions using Python.
 - **[NFL_Machine_Learning](https://github.com/jaretpr/NFL_Machine_Learning):** A Python app that predicts NFL player performance based on past stats.
 - **[NFL_Stats_Props_Analyzer](https://github.com/jaretpr/NFL_Stats_Props_Analyzer):** A Python app for comparing NFL player stats against prop betting lines.
+- **[JJ-Remodeling-And-Son-LLC](https://github.com/jaretpr/JJ-Remodeling-And-Son-LLC):** A static, responsive website for JJ Remodeling & Son LLC showcasing services, portfolio, and an easy “Get a Quote” form.  
   
 ### 🛠 Languages and Tools:
 

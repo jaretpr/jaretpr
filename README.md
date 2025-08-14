@@ -99,9 +99,9 @@ I earned my **Bachelor of Science in Computer Science** from the University of K
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jaretpr&theme=dark)
 
-## 🏆 GitHub Trophies:
+## 📊 GitHub Stats
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jaretpr&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaretpr&show_icons=true&theme=dark)
 
 ## 🌱 What I'm Learning
 I'm currently focusing on enhancing my skills in TensorFlow, exploring the nuances of machine learning and deep learning, and working on creating efficient and intelligent models.

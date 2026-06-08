@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jaret
 
-I'm a **Computer Science Graduate & Software Developer** passionate about AI, machine learning, automation, cybersecurity, web and mobile development, and building innovative solutions. I enjoy creating tools that enhance productivity and solve real-world problems through scripting, software development, and modern frameworks.  
+I'm a **Computer Science Graduate & Software Developer** with a strong interest in AI, machine learning, automation, cybersecurity, and web and mobile development. I enjoy building practical tools and innovative software solutions that improve productivity, solve real-world problems, and make technology more useful and accessible.
 
 I earned my **Bachelor of Science in Computer Science** from the University of Kansas, and I’m always exploring new technologies to expand my skill set and deliver impactful solutions.
 
@@ -96,10 +96,6 @@ I earned my **Bachelor of Science in Computer Science** from the University of K
 ## 🔥 Streak Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jaretpr&theme=dark)
-
-## 📊 Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaretpr&layout=compact&theme=dark)
 
 ## 🌱 What I'm Learning
 I'm currently focusing on enhancing my skills in TensorFlow, exploring the nuances of machine learning and deep learning, and working on creating efficient and intelligent models.

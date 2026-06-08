@@ -89,10 +89,6 @@ I earned my **Bachelor of Science in Computer Science** from the University of K
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaretpr&show_icons=true&theme=dark&count_private=true)
-
 ## 🔥 Streak Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jaretpr&theme=dark)

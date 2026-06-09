@@ -97,7 +97,7 @@ I earned my **Bachelor of Science in Computer Science** from the University of K
 I'm currently focusing on enhancing my skills in TensorFlow, exploring the nuances of machine learning and deep learning, and working on creating efficient and intelligent models.
 
 ## 📫 How to Reach Me
-- **Email:** [Email Me](mailto:jaretpriddy@gmail.com)
+- **Email:** [Email Me](mailto:contact@jaretpriddy.com)
 
 ##
 ![Profile views](https://komarev.com/ghpvc/?username=jaretpr&color=blue)

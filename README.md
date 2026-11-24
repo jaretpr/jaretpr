@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaret
 
-I'm a **Computer Science graduate and Vision Engineer** with a background in software development, automation, and machine vision. I enjoy building practical solutions that combine software with real-world systems.
+I'm a **Project Engineer** with a background in software development and machine vision. I enjoy building practical solutions that bridge the gap between software and real-world systems.
 
 I earned my **Bachelor of Science in Computer Science from the University of Kansas**.
 
@@ -29,6 +29,8 @@ A PowerShell tool that automates Active Directory account creation, network fold
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Libraries & Tools
 
@@ -40,6 +42,9 @@ A PowerShell tool that automates Active Directory account creation, network fold
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![PyModbus](https://img.shields.io/badge/PyModbus-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
